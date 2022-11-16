@@ -22,7 +22,7 @@
 
 ## Technologies Used
 - Python Library - version 3.0
-- Jupyter Notebook - <DineshRawat_LendingClub_CS.ipynb>
+- Jupyter Notebook - <vamsi_krishna_p.ipynb>
 - CSV file
 - Excel file
 
